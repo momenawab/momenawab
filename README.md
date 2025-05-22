@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **momenawab@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nzp_k50v_MkhvUnszyKxJsyTh82TAvLB/view?usp=sharing](https://drive.google.com/file/d/1nzp_k50v_MkhvUnszyKxJsyTh82TAvLB/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/momen awab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momen awab" height="30" width="40" /></a>
