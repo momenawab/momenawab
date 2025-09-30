@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momen</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **at Modern Academy**
-
-- 👯 I’m looking to collaborate on **Mobile App**
+- 👯 I’m looking to collaborate to **Working As Backend Developer & DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/momenawab](https://github.com/momenawab)
 
